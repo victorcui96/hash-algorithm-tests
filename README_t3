@@ -1,0 +1,3 @@
+To run the two python scripts I created for task 3, 1) run the command % python testBitsMD5.py -> This script counts the difference in bits between 'msg1.txt' and 'msg2.txt' using the MD5 hash algorithm 2)   run the command % python testBitsSHA256.py -> This script counts the difference in bits between 'hash1_sha256' and 'hash2_sha256' using the SHA-256 hash algorithm
+
+
