@@ -1,2 +1,0 @@
-To run the experiments to brute force pre-image resistance, in terminal type in % python oneWayProperty.py
-To run the experiments to brute force collision resistance, in terminal type in % python collisionResistant.py
