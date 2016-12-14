@@ -6,3 +6,5 @@ Since most hash functions are very resistant to brute-force, it might take years
 
 To run the experiments to brute-force the one-way property, % python oneWayProperty.py in the terminal. To run the experiments to brute-force collision resistance, % python collisionResistant.py in terminal.
 
+You implement your own experiment yourself by following the instructions located at http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Hash/Crypto_Hash.pdf
+
